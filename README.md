@@ -1,2 +1,1 @@
-Aliquot-Sequence
-__________________________-
+# Aliquot-Sequence
